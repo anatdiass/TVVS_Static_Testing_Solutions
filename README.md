@@ -7,8 +7,8 @@ Made in colaboration with <a href="https://github.com/MariaCaldeira99">@MariaCal
 ### Documentation
 Materials used during practical class (installation guide, presentation and practical exercises) can be accessed [here](https://github.com/anatdiass/TVVS_Static_Testing/tree/main/docs).
 
-### Exercices solutions
-An example of a solution can be accessed [here](https://github.com/anatdiass/TVVS_Static_Testing_Solutions).
+### Exercices 
+Exercises source code can be accessed [here](https://github.com/anatdiass/TVVS_Static_Testing).
 
 ### Credits
 Original code can be accessed [here](https://github.com/janbodnar/Java-Snake-Game).
